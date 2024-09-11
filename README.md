@@ -53,3 +53,11 @@ paper
 Computer picked rock.
 You win!
 ```
+
+**Future Improvements**
+
+- Add more rounds and a final winner announcement.
+- Allow for more customizable gameplay (e.g., best of 3 rounds).
+- Add support for more gestures like Lizard and Spock (Rock-Paper-Scissors-Lizard-Spock).
+- Create a graphical user interface (GUI) for a more interactive experience.
+
